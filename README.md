@@ -1,6 +1,6 @@
 
 # ♾️Imagixx
-Welcome to the AI Image SaaS Platform! This repository contains the codebase for a comprehensive image processing platform that leverages cutting-edge AI technologies. The platform provides a suite of powerful image processing capabilities, integrates a secure payment infrastructure, and offers advanced search functionalities.
+This repository contains the codebase for a comprehensive image processing platform that leverages cutting-edge AI technologies. The platform provides a suite of powerful image processing capabilities, integrates a secure payment infrastructure, and offers advanced search functionalities.
 
 
 ## ⚙️Tech Stack
